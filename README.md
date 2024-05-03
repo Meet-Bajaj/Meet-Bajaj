@@ -1,13 +1,5 @@
 # Hi 👋, I'm Meet Bajaj
 ## I am a B.Tech (Computer Science Engineering) Student.
-
-- 👀 I’m interested in Learning about new **Technologies** 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
-
 ## Connect with me:
 
 ## Languages and Tools:
