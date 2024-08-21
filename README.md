@@ -1,8 +1,3 @@
-# Hi 👋, I'm Meet Bajaj
-## I am a B.Tech (Computer Science Engineering) Student.
-## Connect with me:
-
-## Languages and Tools:
 <h1 align="center">Hi 👋, I'm Meet Bajaj</h1>
 <h3 align="center">DSA || Web Development || Graphic Designer</h3>
 
