@@ -97,7 +97,7 @@
 <details>
   <summary><h3>🔥 Streak Stats</h3></summary>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetbajaj&theme=tokyonight_duo" alt="Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meet-bajaj&theme=tokyonight_duo" alt="Streak Stats" />
   </p>
 </details>
 
@@ -105,9 +105,9 @@
   <summary><h3>💻 GitHub Profile Stats</h3></summary>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Meet Bajaj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meetbajaj&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="230px"/>
+      <img alt="Meet Bajaj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=meet-bajaj&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="230px"/>
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meetbajaj&langs_count=10&theme=tokyonight&layout=compact" height="230px" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meet-bajaj&langs_count=10&theme=tokyonight&layout=compact" height="230px" alt="Top Languages"/>
   </p>
   <br/>
   <b>Note:</b> Top languages only reflects public code and doesn't indicate experience/skill level.
@@ -116,7 +116,7 @@
 <details>
   <summary><h3>⚡ Recent GitHub Activity</h3></summary>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetbajaj&theme=github-compact" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-bajaj&theme=github-compact" alt="Activity Graph"/>
   </p>
 </details>
 
