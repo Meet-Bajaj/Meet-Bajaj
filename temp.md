@@ -147,14 +147,13 @@
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meetbajaj&theme=tokyonight_duo" alt="meetbajaj" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=meet-bajaj&theme=tokyonight_duo" alt="meetbajaj" /></p>
 
 </details>
   
@@ -172,13 +171,13 @@
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
----
+</details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
 	
-[![Meet-Bajaj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=meet-bajaj&theme=github)](https://github.com/meet-bajaj/github-readme-activity-graph)
+[![Meet-Bajaj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=meet-bajaj&theme=github)](https://github.com/meet-bajaj/github-readme-activity-graph)
 
 </details>
 
