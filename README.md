@@ -31,17 +31,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend :</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,php"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend & Database :</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend :</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vue,next,react,tailwind,bootstrap,html,css,figma"/></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database :</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
-    </tr>
+    </tr> -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages :</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/></td>
@@ -58,10 +58,10 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools :</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postman,ai,ps,"/></td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems :</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
+    </tr> -->
 </table>
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> GitHub Stats
