@@ -28,15 +28,15 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
-<img src="https://komarev.com/ghpvc/?username=meet-bajaj&label=Profile%20Views&color=58A6FF&style=flat-square" />
+<!-- <img src="https://komarev.com/ghpvc/?username=meet-bajaj&label=Profile%20Views&color=58A6FF&style=flat-square" /> -->
 
 </div>
 
 <br/>
 
----
+
 
 <!-- ========================================================= -->
 
@@ -61,7 +61,7 @@ Think        →        Design        →        Build        →        Improve
 > **I don't just want to write code.
 > I want to understand the problem behind it and build the right solution.**
 
----
+
 
 ## ⚡ What I Build
 
@@ -103,7 +103,7 @@ I enjoy taking an idea from **concept → architecture → interface → impleme
 </tr>
 </table>
 
----
+
 
 # 🛠️ My Tech Stack
 
@@ -139,7 +139,7 @@ I enjoy taking an idea from **concept → architecture → interface → impleme
 
 </p>
 
----
+
 
 # 🚀 Selected Projects
 
@@ -153,7 +153,7 @@ Organizations · Hosts · Participants · Timed Quizzes · Results · Analytics 
 
 **React · Node.js · Express · MongoDB**
 
----
+
 
 ### 🏫 Smart Campus Communication Hub
 
@@ -163,7 +163,7 @@ Built as part of **HackForge'25 — Team Vector**
 
 **Next.js · Backend APIs · MongoDB · Product Design**
 
----
+
 
 ### 💻 More Coming Soon
 
@@ -181,7 +181,7 @@ I'm continuously building and experimenting with:
 
 </div>
 
----
+
 
 # 💼 Experience
 
@@ -203,7 +203,7 @@ Strengthened my programming fundamentals through Data Structures & Algorithms, p
 
 Worked on interface design, visual hierarchy, usability and improving digital product experiences.
 
----
+
 
 # 🏆 Beyond Code
 
@@ -217,7 +217,7 @@ That experience taught me something I carry into development:
 
 > **Good products need both engineering and creativity.**
 
----
+
 
 # 📚 Currently Learning
 
@@ -240,7 +240,7 @@ My focus is not simply collecting technologies.
 
 I'm learning **when to use them, why they exist, and how they fit into real products.**
 
----
+
 
 # 📊 GitHub Activity
 
@@ -256,37 +256,6 @@ I'm learning **when to use them, why they exist, and how they fit into real prod
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meet-bajaj&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meet-bajaj&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Watch My Contributions Come Alive
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/meet-bajaj/meet-bajaj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
 
 # 🌐 Let's Connect
 
